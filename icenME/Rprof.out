@@ -1,0 +1,10 @@
+sample.interval=20000
+"print.default" "print" "print.data.frame" "print" 
+"strsplit" "lapply" ".make_numeric_version" "R_system_version" "package_version" "getRversion" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "base::try" 
+"readRDS" "FUN" "lapply" "<Anonymous>" 
+"close.connection" "close" "readRDS" "packageDescription" "withCallingHandlers" "suppressWarnings" "packageVersion" "paste" "<Anonymous>" 
+"close.connection" "close" "readRDS" "packageDescription" "withCallingHandlers" "suppressWarnings" "packageVersion" "paste" "<Anonymous>" 
+"unique.default" "unique" ".make_numeric_version" "package_version" "packageVersion" "paste" "<Anonymous>" 
+"save" "save.image" "sys.save.image" 
+"save" "save.image" "sys.save.image" 
+"as.list" "vapply" "rm" "withCallingHandlers" "suppressWarnings" "<Anonymous>" 
